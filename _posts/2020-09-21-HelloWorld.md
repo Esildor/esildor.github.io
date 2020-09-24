@@ -16,7 +16,7 @@ I guess its just a place to dumb my thoughts, stories, feelings, and code. Not t
 I really just wanted to try out two things:
 
 #### [Github Pages](https://pages.github.com/)
-_Mainly_ so I could stop paying something like **20 bucks** a year for hosting
+_Mainly_ so I could stop paying something like **20 bucks** a year for web site hosting
 
 
 #### [jekyll](https://jekyllrb.com/)
