@@ -23,9 +23,9 @@ grid_settings:
   grid_spacing: 10
 
 contact_settings:
-  form_action: ''
+  form_action: 'https://formspree.io/mjvpvzgk'
   confirmation_url: '/thanks'
-  email_subject: 'Contact form submission'
+  email_subject: 'Hey Sam, someone on your portfolio tried to contact you'
   send_button_text: 'Send Message'
 
 social_settings:

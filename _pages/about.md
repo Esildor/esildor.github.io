@@ -11,6 +11,7 @@ Software has been my passion since I was a young kid. The idea of commanding a c
 
 <!--![](/images/about/portrait.jpg)-->
 <img src="/images/about/portrait.jpg" width="500"/>
+
 <!-- <object data="http://samnarkawicz.com/Resume.pdf" type="application/pdf">
     <embed src="http://samnarkawicz.com/Resume.pdf">
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://samnarkawicz.com/Resume.pdf">Download PDF</a>.</p>
