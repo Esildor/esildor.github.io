@@ -1,15 +1,17 @@
 ---
-title: 'Tales From the Road: Run in with the Mob'
-date: 2020-09-24 00:00:00
-featured_image: /images/blog/TalesFromTheRoad-MobBoss/splash.jpg
-excerpt: First story in a new section I'm going to call 'Tales from the Road'. Sure a bit ostentatious, but really its just tid bits of quirky little moments that happen when you travel everyday.
+title: 'Travel Stories: The Mobster'
+date: 2021-02-20 00:00:00
+featured_image: /images/blog/TravelStories-TheMobster/splash.jpg
+excerpt:  Hey look! First real post! First story in a new section I'm going to call 'Travel Stories'. Sure a bit simple, but it does what it says on the tin!
 ---
 
-> “So, you've got a tattoo of a hammer, I like hammers too. I keep one under my pillow just incase.”
+> “So, you've got a hammer tattoo, I like hammers too. I keep one under my pillow just incase.”
 
-First story in a new section I'm going to call 'Tales from the Road'. Sure a bit ostentatious and sudo glamorous, but really its just tid bits of quirky little moments that happen when you travel everyday.
+This is my first time really writing anything really, and I'm certainly no writer. This is more of a place where I can write down my idea's, thoughts and stories, so I don't forget them when I'm old and gray.
 
-Admittedly, this hook of ___Run in with the Mob___ as a title is a far fetch. Largely due to the fact that _"run in"_ implies some sort of physical altercation or scuffle or something. This was more of an interaction with an interesting character.
+And with that! *drum role please...*
+
+The first blog in a new section I'm going to call **Travel Stories**. Sure a bit simple, but it does what it says on the tin! Really its just tid bits of quirky little moments that happen when you travel.
 
 ## When, Where, and Why
 
@@ -28,11 +30,11 @@ I can tell you how I feel and what my first impressions are for every city or to
 Croatia was one of the worst initial experience I sensed. The place was dead. Barely any people around at all. And the people I did see, seemed like tourists. Granted, I didn't expect many tourists due to COVID. However, I didn't expect a little. But what made it notably strange is that Dubrovnik had **so much** residential housing. The place is basically on mountain thats falling into the ocean.
 
 <div class="gallery" data-columns="3">
-    <img src="/images/blog/TalesFromTheRoad-MobBoss/cityview-1.jpg">
-    <img src="/images/blog/TalesFromTheRoad-MobBoss/cityview-2.jpg">
-    <img src="/images/blog/TalesFromTheRoad-MobBoss/cityview-3.jpg">
-    <img src="/images/blog/TalesFromTheRoad-MobBoss/cityview-4.jpg">
-    <img src="/images/blog/TalesFromTheRoad-MobBoss/cityview-5.jpg">
+    <img src="/images/blog/TravelStory-Mobster/cityview-1.jpg">
+    <img src="/images/blog/TravelStory-Mobster/cityview-2.jpg">
+    <img src="/images/blog/TravelStory-Mobster/cityview-3.jpg">
+    <img src="/images/blog/TravelStory-Mobster/cityview-4.jpg">
+    <img src="/images/blog/TravelStory-Mobster/cityview-5.jpg">
 </div>
 
 After walking through some hilly city for a few miles> I had made my way to the outskirts of town. The was a small _(by our standards)_ merina
