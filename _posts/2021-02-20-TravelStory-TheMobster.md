@@ -7,7 +7,7 @@ excerpt:  Hey look! First real post! First story in a new section I'm going to c
 
 > “So, you've got a hammer tattoo, I like hammers too. I keep one under my pillow just incase.”
 
-This is my first time really writing anything really, and I'm certainly no writer. This is more of a place where I can write down my idea's, thoughts and stories, so I don't forget them when I'm old and gray.
+This is my first time really writing anything really publicly, and I'm certainly no writer. This is more of a place where I can write down my idea's, thoughts and stories, so I don't forget them when I'm old and gray.
 
 And with that! *drum role please...*
 
@@ -21,13 +21,11 @@ The first blog in a new section I'm going to call **Travel Stories**. Sure a bit
 
 ## Upon Arrival
 
-First thing I do when I land, is find transportation to the city. Next, find a hostel, or a nice spot in the woods if I'm feeling cheap. Most importantly I build my day pack. Just a small bad with water, battery pack, money, rain gear, maybe a book or journal. 
+First thing I do when I land, is find transportation to the city. Next, find a hostel, usually by asking around at places or looking on the web. Once I've thrown my backpack down on my 2" inch thick mattress, I throw a bunch of stuff in my day pack. Usually I fill it with water, battery pack, money, rain gear, maybe a book or journal. 
 
-Finally, I set out the door.  Then I just start walking. I find that I can get the best feel for a city or town by just walking. You can take in all the vibes from the social situations. I found that this will kind of set the mood for your experience in the area.
+Finally, I set out the door.  Then I just start walking. I find that I can get the best feel for a city or town by just walking. You can take in all the vibes from the social situations. I found that this will set the mood for your experience in the area.
 
 I can tell you how I feel and what my first impressions are for every city or town I've been in. Its a pretty distinct feeling. But just because this feeling is distinct, doesn't make it true. It doesn't truly set the intention for how your going to like the area.
-
-Croatia was one of the worst initial experience I sensed. The place was dead. Barely any people around at all. And the people I did see, seemed like tourists. Granted, I didn't expect many tourists due to COVID. However, I didn't expect a little. But what made it notably strange is that Dubrovnik had **so much** residential housing. The place is basically on mountain thats falling into the ocean.
 
 <div class="gallery" data-columns="3">
     <img src="/images/blog/TravelStory-Mobster/cityview-1.jpg">
@@ -37,4 +35,8 @@ Croatia was one of the worst initial experience I sensed. The place was dead. Ba
     <img src="/images/blog/TravelStory-Mobster/cityview-5.jpg">
 </div>
 
-After walking through some hilly city for a few miles> I had made my way to the outskirts of town. The was a small _(by our standards)_ merina
+After walking through some hilly city for a few miles I had made my way to the outskirts of town. The was a small _(by our standards)_ marina. Deciding to change up the scenery a bit, I decided to check out some of the boats by walking up and down some of the docks.
+
+After walking down the docks for a bit, it was clear that a lot of Croatians boated. There seemed to be more boats than the people that lived there. That said, even though they were on the ocean, the boats were so much smaller than the ones you'd see in America. You know in all those movies, when ever a tourist or immigrant comes to America, they always say: "Oh wow, every American car so big". Guess its par for the course.
+
+After a while, I walked past a man and a women I saw on a small boat, no bigger than 12-14 feet long. Eager to spice things up in a place I had only been for a few hours
