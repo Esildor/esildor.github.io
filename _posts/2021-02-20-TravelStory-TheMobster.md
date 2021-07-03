@@ -35,8 +35,21 @@ I can tell you how I feel and what my first impressions are for every city or to
     <img src="/images/blog/TravelStory-Mobster/cityview-5.jpg">
 </div>
 
-After walking through some hilly city for a few miles I had made my way to the outskirts of town. The was a small _(by our standards)_ marina. Deciding to change up the scenery a bit, I decided to check out some of the boats by walking up and down some of the docks.
+After walking through some hilly city for a few miles I had made my way to the outskirts of town. There was a small _(by American standards)_ marina. Deciding to change up the scenery a bit, I decided to check out some of the boats by walking up and down some of the docks.
 
 After walking down the docks for a bit, it was clear that a lot of Croatians boated. There seemed to be more boats than the people that lived there. That said, even though they were on the ocean, the boats were so much smaller than the ones you'd see in America. You know in all those movies, when ever a tourist or immigrant comes to America, they always say: "Oh wow, every American car so big". Guess its par for the course.
 
-After a while, I walked past a man and a women I saw on a small boat, no bigger than 12-14 feet long. Eager to spice things up in a place I had only been for a few hours
+Little tip when trying to break the ice with asking/meeting local people. Ask for help, but it an open ended way.
+* Avoid:
+    - Can you help me get to _place_?
+    - Where is _thing_?
+    - How do I do _something_?
+* Try:
+    - What's the best food around here?
+    - What a good spot to find _something_?
+    - How would you go about _something_?
+Note that don't even have to be inline with something you're searching for. Rather a catalyst to a conversation or a solid suggestion. If people have taught me anything, its that they love sharing their opinions. I believe this is something that transcends culture (though I'm sure to be proven wrong soon enough).
+
+After a while, I walked past a man and a women I saw on a small boat, no bigger than 12-14 feet long. Eager to spice things up in a place I had only been for a few hours. I decided to apply one of the aforementioned tips. I asked about some of the places that have good food around here and what they liked to eat. Naturally this lead to questions and followups about things that I enjoyed, and have/haven't tried. The man was and older, hairy man with curly black hair and gold chains. The women, easily 10-15 years younger, was beautiful with dirty blonde hair. But what stood out more than her beauty, was here immense lack of interest in the situation. I'm not saying I'm some amazing conversationalist but after a few attempts of trying to rope her in to the conversation she was completely dis-intrested.
+
+After the man had given me a few great tips, he invited me to share a beer with them. That one turned into about 4 tall boys. We chatted about America, game-dev, boating, the state of Croatia, amongst other things. I was sitting on the dock, he was on the edge of his boat. Around this time he notice my tattoo on my angle.
