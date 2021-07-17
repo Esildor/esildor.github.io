@@ -11,7 +11,7 @@ This is my first time really writing anything really publicly, and I'm certainly
 
 And with that! *drum role please...*
 
-The first blog in a new section I'm going to call **Travel Stories**. Sure a bit simple, but it does what it says on the tin! Really its just tid bits of quirky little moments that happen when you travel.
+The first blog in a new section I'm going to call **Travel Stories**. Sure a bit simple, but it does what it says on the tin! Really its just tid bits of quirky little moments that happen when you travel. 
 
 ## When, Where, and Why
 
