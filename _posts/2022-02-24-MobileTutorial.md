@@ -37,7 +37,7 @@ One reason for making this whole post is to save ya'll some time with this part.
 ### The 8 Boxes
 The core of this is the following 8 `RectTransforms` positioned and anchored in such a way that make it suitable for positioning around an arbitrary target object.
 
-<img src="/images/blog/MobileTutorial/overview.png">
+<img src="/images/blog/MobileTutorial/overview.png" width="300">
 
 Next note the hierarchy, and the boxes positions. Each point is anchored towards the center of the screen. Also, kinda goes without saying, but all of these `RectTransforms` have an image component on them. Color them dynamically or set the color of the scrims to whatever you want. Also the image components should have there `Raycast Target` field checked so other input is prevented.
 
@@ -123,7 +123,7 @@ Note how I'm setting the `transform.position` on the objects, as opposed to doin
 
 ### The result:
 I used a bit of Odin Inspector goodness to make this button to test it at editor-time. You could just try it at runtime, or create your own editor script. 
-<img src="/images/blog/MobileTutorial/final.gif">
+<img src="/images/blog/MobileTutorial/final.gif" width="300">
 
 ---
 This is my first time ever doing something like this, so if you found this help, let me know I'm not insane by giving me a _thanks_ email. Also if you have any questions on the matter, feel free to [shoot me an email for that too](mailto:narkawiczsamuel@gmail.com)!
