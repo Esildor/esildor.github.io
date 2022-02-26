@@ -60,8 +60,11 @@ public class TutorialPanel : MonoBehaviour
 	public RectTransform TopLeftCorner, TopRightCorner, BottomLeftCorner, BottomRightCorner;
 }
 ```
+
 Additionally, note that each rect has its width set to 1000. This is to ensure that it will stretch all the way off screen, regardless of the object its focusing on. Ideally, I would have had time to write a bit more logic to make it fit within the bounds of the enclosing rect, but I never got to it...
-<img src="/images/blog/MobileTutorial/boxRect.png">
+
+<img src="/images/blog/MobileTutorial/boxRect.png" width="300">
+
 Now, the moment you've been waiting for! You don't have to set any of this up! Took me a good hour to figure out and set this all up, so here's a unity package with a prefab ready to go! _(No script though)_. As long as there's no major overhauls to the Unity UI system since the time of writing this, this should import fine with **any** version of Unity.
 
 <a href="https://www.github.com/Esildor/esildor.github.io/blob/master/files/tutorialPanel.unitypackage" class="button button--large">Download Unity Package</a>
