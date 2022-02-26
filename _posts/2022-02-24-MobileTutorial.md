@@ -42,14 +42,14 @@ The core of this is the following 8 `RectTransforms` positioned and anchored in 
 Next note the hierarchy, and the boxes positions. Each point is anchored towards the center of the screen. Also, kinda goes without saying, but all of these `RectTransforms` have an image component on them. Color them dynamically or set the color of the scrims to whatever you want. Also the image components should have there `Raycast Target` field checked so other input is prevented.
 
 <div class="gallery" data-columns="4">
-	<img src="/images/blog/MobileTutorial/box-1.png">
-	<img src="/images/blog/MobileTutorial/box-2.png">
-	<img src="/images/blog/MobileTutorial/box-3.png">
-	<img src="/images/blog/MobileTutorial/box-4.png">
-	<img src="/images/blog/MobileTutorial/box-5.png">
-	<img src="/images/blog/MobileTutorial/box-6.png">
-	<img src="/images/blog/MobileTutorial/box-7.png">
-	<img src="/images/blog/MobileTutorial/box-8.png">
+	<img src="/images/blog/MobileTutorial/box1.png">
+	<img src="/images/blog/MobileTutorial/box2.png">
+	<img src="/images/blog/MobileTutorial/box3.png">
+	<img src="/images/blog/MobileTutorial/box4.png">
+	<img src="/images/blog/MobileTutorial/box5.png">
+	<img src="/images/blog/MobileTutorial/box6.png">
+	<img src="/images/blog/MobileTutorial/box7.png">
+	<img src="/images/blog/MobileTutorial/box8.png">
 </div>
 
 Next up, create your script that'll manage this panel, I suggest placing it on the panel root, but since everything is referenced directly, I don't think it matters.
