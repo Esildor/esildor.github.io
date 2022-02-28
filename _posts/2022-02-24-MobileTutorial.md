@@ -35,8 +35,8 @@ One reason for making this whole post is to save ya'll some time with this part.
 
 ### The 8 Boxes
 The core of this is the following 8 `RectTransforms` positioned and anchored in such a way that make it suitable for positioning around an arbitrary target object.
-<div class="gallery" data-columns="3">
-	<img src="/images/blog/MobileTutorial/overview.png", width="400">
+<div class="gallery" data-columns="1">
+	<img src="/images/blog/MobileTutorial/overview.png" width="400">
 </div>
 
 Next note the hierarchy, and the boxes positions. Each point is anchored towards the center of the screen. Also, kinda goes without saying, but all of these `RectTransforms` have an image component on them. Color them dynamically or set the color of the scrims to whatever you want. Also the image components should have there `Raycast Target` field checked so other input is prevented.
@@ -63,8 +63,8 @@ public class TutorialPanel : MonoBehaviour
 
 Additionally, note that each rect has its width set to 1000. This is to ensure that it will stretch all the way off screen, regardless of the object its focusing on. Ideally, I would have had time to write a bit more logic to make it fit within the bounds of the enclosing rect, but I never got to it...
 
-<div class="gallery" data-columns="3">
-	<img src="/images/blog/MobileTutorial/boxRect.png", width="400">
+<div class="gallery" data-columns="1">
+	<img src="/images/blog/MobileTutorial/boxRect.png" width="400">
 </div>
 
 Now, the moment you've been waiting for! You don't have to set any of this up! Took me a good hour to figure out and set this all up, so here's a unity package with a prefab ready to go! _(No script though)_. As long as there's no major overhauls to the Unity UI system since the time of writing this, this should import fine with **any** version of Unity.
@@ -128,8 +128,8 @@ Note how I'm setting the `transform.position` on the objects, as opposed to doin
 
 ### The result:
 I used a bit of Odin Inspector goodness to make this button to test it at editor-time. You could just try it at runtime, or create your own editor script. 
-<div class="gallery" data-columns="3">
-	<img src="/images/blog/MobileTutorial/final.gif" width="300">
+<div class="gallery" data-columns="1">
+	<img src="/images/blog/MobileTutorial/final.gif" width="200">
 </div>
 
 ---
