@@ -15,7 +15,6 @@ For the uninitiated, tutorial systems within mobile games follow a common trope.
 	<img src="/images/blog/MobileTutorial/example-1.png">
 	<img src="/images/blog/MobileTutorial/example-2.png">
 	<img src="/images/blog/MobileTutorial/example-3.png">
-	<img src="/images/blog/MobileTutorial/example-4.png">
 </div>
 
 Like shown above, it follows these core concepts:
@@ -36,8 +35,9 @@ One reason for making this whole post is to save ya'll some time with this part.
 
 ### The 8 Boxes
 The core of this is the following 8 `RectTransforms` positioned and anchored in such a way that make it suitable for positioning around an arbitrary target object.
-
-<img src="/images/blog/MobileTutorial/overview.png" width="300">
+<div class="gallery" data-columns="3">
+	<img src="/images/blog/MobileTutorial/overview.png", width="400">
+</div>
 
 Next note the hierarchy, and the boxes positions. Each point is anchored towards the center of the screen. Also, kinda goes without saying, but all of these `RectTransforms` have an image component on them. Color them dynamically or set the color of the scrims to whatever you want. Also the image components should have there `Raycast Target` field checked so other input is prevented.
 
@@ -63,7 +63,9 @@ public class TutorialPanel : MonoBehaviour
 
 Additionally, note that each rect has its width set to 1000. This is to ensure that it will stretch all the way off screen, regardless of the object its focusing on. Ideally, I would have had time to write a bit more logic to make it fit within the bounds of the enclosing rect, but I never got to it...
 
-<img src="/images/blog/MobileTutorial/boxRect.png" width="300">
+<div class="gallery" data-columns="3">
+	<img src="/images/blog/MobileTutorial/boxRect.png", width="400">
+</div>
 
 Now, the moment you've been waiting for! You don't have to set any of this up! Took me a good hour to figure out and set this all up, so here's a unity package with a prefab ready to go! _(No script though)_. As long as there's no major overhauls to the Unity UI system since the time of writing this, this should import fine with **any** version of Unity.
 
@@ -96,16 +98,16 @@ public void FocusOnTarget(Canvas canvas, float padding, RectTransform focusTarge
   // Calculate the width (remember, Left and Right are rotated, thats why 
   // we're not setting the height) of the boxes. Based on distance accounting
   // for scale.
-  float topAndBottomWidth = Vector3.Distance(topLeftCorner, topRightCorner) / canvas.scaleFactor;
-  float leftAndRightWidth = Vector3.Distance(topLeftCorner, bottomRightCorner) / canvas.scaleFactor;
+  float tbwidth = Vector3.Distance(topLeftCorner, topRightCorner) / canvas.scaleFactor;
+  float lrWidth = Vector3.Distance(topLeftCorner, bottomRightCorner) / canvas.scaleFactor;
   Top.transform.position = top;
-  Top.sizeDelta = new Vector2(topAndBottomWidth, Top.sizeDelta.y);
+  Top.sizeDelta = new Vector2(tbwidth, Top.sizeDelta.y);
   Bottom.transform.position = bottom;
-  Bottom.sizeDelta = new Vector2(topAndBottomWidth, Bottom.sizeDelta.y);
+  Bottom.sizeDelta = new Vector2(tbwidth, Bottom.sizeDelta.y);
   Left.transform.position = left;
-  Left.sizeDelta = new Vector2(leftAndRightWidth, Left.sizeDelta.y);
+  Left.sizeDelta = new Vector2(lrWidth, Left.sizeDelta.y);
   Right.transform.position = right;
-  Right.sizeDelta = new Vector2(leftAndRightWidth, Right.sizeDelta.y);
+  Right.sizeDelta = new Vector2(lrWidth, Right.sizeDelta.y);
 }
 ```
 
@@ -126,7 +128,9 @@ Note how I'm setting the `transform.position` on the objects, as opposed to doin
 
 ### The result:
 I used a bit of Odin Inspector goodness to make this button to test it at editor-time. You could just try it at runtime, or create your own editor script. 
-<img src="/images/blog/MobileTutorial/final.gif" width="300">
+<div class="gallery" data-columns="3">
+	<img src="/images/blog/MobileTutorial/final.gif" width="300">
+</div>
 
 ---
 This is my first time ever doing something like this, so if you found this help, let me know I'm not insane by giving me a _thanks_ email. Also if you have any questions on the matter, feel free to [shoot me an email for that too](mailto:narkawiczsamuel@gmail.com)!
