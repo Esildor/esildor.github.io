@@ -12,9 +12,9 @@ Ever have one of the problems on during your software engineering travels where 
 For the uninitiated, tutorial systems within mobile games follow a common trope. Its a bit hard to explain, so heres some examples:
 
 <div class="gallery" data-columns="3">
-	<img src="/images/blog/MobileTutorial/example-1.png">
-	<img src="/images/blog/MobileTutorial/example-2.png">
-	<img src="/images/blog/MobileTutorial/example-3.png">
+	<img src="/images/blog/MobileTutorial/example-1.png" width="400">
+	<img src="/images/blog/MobileTutorial/example-2.png" width="400">
+	<img src="/images/blog/MobileTutorial/example-3.png" width="400">
 </div>
 
 Like shown above, it follows these core concepts:
