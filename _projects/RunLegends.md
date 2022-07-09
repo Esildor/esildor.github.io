@@ -4,6 +4,7 @@ subtitle: 'Turn walking and running into a cooperative multiplayer battle game!'
 date: 2022-07-09 00:00:00
 featured_image: '/images/projects/runlegends/banner.png'
 ---
+<img src="/images/projects/runlegends/banner.png" width="200">
 
 ## Learnings
 
