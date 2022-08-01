@@ -6,7 +6,7 @@ featured_image: '/images/projects/runlegends/banner.png'
 ---
 <img src="/images/projects/runlegends/banner.png" width="200">
 
-## Learnings
+## Learnings test
 
 Working at Talofa Games has taught me so much more about the game development process than I ever thought I could learn. It continues to play a pivotal role in how I grow as a developer and leader.
 
