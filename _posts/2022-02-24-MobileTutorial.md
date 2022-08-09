@@ -7,7 +7,7 @@ excerpt: A quick rambling on the hard parts of building a common mobile game sys
 **tl;dr**
 This tutorial will show you how to create the basic UI for a mobile tutorial system within Unity3D. Mainly it explains how to do some of the painful UI setup and the calculations. In Unity, everyone's UI is different, so this should be broadly applicable. As long as you have some sort of "Panel System" in your UI, where a single prefab represents a panel. It should be able to be adapted to whatever you might have.
 
-Ever have one of the problems on during your software engineering travels where its seems like you're **the only one** looking for discussion on the topic? I was recently asked to implement and tutorial system within a project. And it seemed like no one online was trying to solve the same thing. Well I had some hiccups and since I couldn't find any documentation on it. So I decided to write this up and give back to the community. 💖
+Ever encounter one of the problems during your software engineering travels where its seems like you're **the only one** looking for discussion on the topic? I was recently asked to implement and tutorial system within a project. And it seemed like no one online was trying to solve the same thing. Well I had some hiccups and since I couldn't find any documentation on it. So I decided to write this up and give back to the community. 💖
 
 For the uninitiated, tutorial systems within mobile games follow a common trope. Its a bit hard to explain, so heres some examples:
 
@@ -17,7 +17,7 @@ For the uninitiated, tutorial systems within mobile games follow a common trope.
 	<img src="/images/blog/MobileTutorial/example-3.png" width="200">
 </div>
 
-Like shown above, it follows these core concepts:
+Shown above, it follows these core concepts:
 * Overlay UI on top of the current panel to simulate the below panel being _"grayed out"_.
 * Provide some sort of _see through_ area. Notably, this means the player can click through to some button or area.
 * (Optionally) Display some other UI elements over this grayed area
@@ -26,7 +26,7 @@ To my knowledge, in the UI world, this is called a **scrim**. If its not, [feel 
 ---
 
 ## Goal:
-Make a tutorial panel like the ones shown above. Allow developers to _"focus"_ on an arbitrary rect transform from another UI element. A strong emphasis being that developers should **not** have to modify the gameplay panels just to add a tutorial focusing to it.
+Make a tutorial panel like the ones shown above. Allow developers to _"focus"_ on an arbitrary `RectTransform` that exists on another UI element. This is trying maintain the idea that developers should **not** have to modify the gameplay panels just to add a tutorial focusing to it.
 
 ---
 
