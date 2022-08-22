@@ -16,9 +16,9 @@ At other companies, my engineering skills improved and changed as I became a str
 
 ## My Impact
 
-On Run Legends, I and the Lead Server Engineer play essential roles in architecting the project from an empty Unity project. This *"day one"* level of intimacy with the project has been a treat and trip! Together we design and implement the majority of systems by hand. Here are a few:
+On Run Legends, myself and the Lead Server Engineer play essential roles in architecting the project from an empty Unity project. This *"day one"* level of intimacy with the project has been a treat and trip! Together we design and implement the majority of systems by hand. Here are a few:
 
-- A purely ScriptableObject based content loading system, where designers can edit the game's configuration and content and deploy it to players using Unity's addressable system. Allow them to tweak gameplay on the fly!
+- A purely ScriptableObject based content loading system, where designers can edit the game's configuration and content and deploy it to players/server using Unity's addressable system. Allowing them to tweak gameplay on the fly!
 - Integrated authentication services, allowing players to login and sync their accounts with multiple services. (Google Play Games, GameCenter, etc.)
 - Created a real-time battle system that can run on the game server or locally on the client, all via a shared client/server library. This allows all the developers to share systems and code.
 
