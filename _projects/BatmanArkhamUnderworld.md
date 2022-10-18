@@ -8,12 +8,15 @@ featured_image: '/images/projects/bau/banner.jpg'
 
 ## Influence & Achievements
 
-Working on Turbines first mobile game was a blast! I learned how to implement a robust and extensible server architecture for mobile games. Writing custom plugins and optimizing for 1gb ram devices really tested my Unity3D skills. I also did a lot of the core work on porting the game to android, which gave me a ton of platform specific experience. There's a lot of interesting challenges with maintaining huge player base.
+Working on Turbine's first mobile game was a blast! I learned how to implement a robust and extensible server architecture for mobile games. Writing custom plugins and optimizing for 1GB ram devices really tested my Unity3D skills. I also did a lot of the core work on porting the game to android, which gave me a ton of platform-specific experience. There are a lot of interesting challenges with maintaining a huge player base.
 
 While on the project:
 * Lead a small team of contractors to port the application to Android
+* Built new UI in accordance with the UI teams designed
+* Extended Finite State Machines and Behaviour Trees tools that perform the game's simulation
 * Work on the live ops team to ship multiple app updates with new features
-* Spent time debugging/performance optimization with native iOS and Android tool 
+* Spent time debugging/performance optimization with native iOS and Android tool
+* Built and support the internal localization system
 
 ---
 

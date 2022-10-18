@@ -10,16 +10,19 @@ featured_image: '/images/projects/got/banner.jpg'
 
 ## Influence & Achievements
 
-Being part of Turbine’s 2nd mobile game was revolutionary for my career. Seeing how a company grows from there next game is really special. Watching the tools, tech, and people learn and grow as a team made me a stronger engineer all around! Not to mention, I’m so blessed to working with one of the largest IP’s to date. 
+Being part of Turbine’s 2nd mobile game was revolutionary for my career. Seeing how a company grows and transforms from its first mobile game to the next is really special. Watching the tools, tech, and people learn and grow as a team, made me a stronger engineer all around! Not to mention, is really fun getting to work with one of the most popular IPs in the world. 
 
-On this project I worked heavily with all parts of the client. From Architecting game systems to UI, it really feels like a game that wouldn’t be the same without my part.
+On this project, I worked heavily with all parts of the client. I truely felt like I played an essential role in a lean and mean team of engineers. it really feels like a game that wouldn’t be the same without my part.
 
 While on the project:
 * Helped architect large gameplay systems that are played by millions
+* Worked with designers to extend content, building tools to facilitate the creation of new content
+* Handled device-specific features, like notifications, account backup/migration
+* Work closely with UI/UX team to take their mockup and build them in the engine.
 * Spent a large portion of the project working on the "Live Events Team".
-	* In charge of maintaining player interest by creating rewarding events in game.
+	* In charge of maintaining player interest by creating rewarding events in-game.
 	* Developed robust event systems capable of downloading dynamic content and gameplay systems. 
-* Preformed critical bug fixes during development and within a Live-Ops situations.
+* Performed critical bug fixes during development and within a Live-Ops situation.
 
 ---
 
