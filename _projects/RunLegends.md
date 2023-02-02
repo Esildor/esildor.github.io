@@ -43,7 +43,6 @@ Check out some images of the game!
 <img src="/images/projects/runlegends/showcase-1.jpg">
 <img src="/images/projects/runlegends/showcase-2.jpg">
 <img src="/images/projects/runlegends/showcase-3.jpg">
-<img src="/images/projects/runlegends/showcase-4.jpg">
 </div>
 
 ---
