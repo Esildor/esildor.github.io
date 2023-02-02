@@ -1,10 +1,10 @@
 ---
 title: 'Run Legends'
 subtitle: 'Turn walking and running into a cooperative multiplayer battle game!'
-date: 2022-07-09 00:00:00
+date: 2023-02-02 00:00:00
 featured_image: '/images/projects/runlegends/banner.png'
 ---
-<img src="/images/projects/runlegends/banner.png" width="200">
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/l4nCOLSBu84" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope" allowfullscreen></iframe>
 
 ## Learnings
 
@@ -40,10 +40,10 @@ Run Legends is hands down one of the most unique and innovative projects I've ev
 Check out some images of the game!
 
 <div class="gallery" data-columns="3">
-<img src="/images/projects/runlegends/showcase-1.png">
-<img src="/images/projects/runlegends/showcase-2.png">
-<img src="/images/projects/runlegends/showcase-3.png">
-<img src="/images/projects/runlegends/showcase-4.png">
+<img src="/images/projects/runlegends/showcase-1.jpg">
+<img src="/images/projects/runlegends/showcase-2.jpg">
+<img src="/images/projects/runlegends/showcase-3.jpg">
+<img src="/images/projects/runlegends/showcase-4.jpg">
 </div>
 
 ---
