@@ -1,5 +1,5 @@
 basic_settings:
-  site_title: Hacker Man Sam
+  site_title: Sam Narkawicz
   site_tagline: 👋 Hi there and welcome! This is my little place on the web for me to showcase projects, travel story's, programming exploits. But really its just a place to vomit out whatever comes to my mind! 
   favicon_image: /images/favicon.png
 
@@ -30,7 +30,7 @@ contact_settings:
 
 social_settings:
   facebook_url: ''
-  twitter_url: 'https://twitter.com/SNarkawicz'
+  twitter_url: ''
   instagram_url: 'https://www.instagram.com/hacker_man_sam/'
   snapchat_url: ''
   youtube_url: ''
@@ -52,7 +52,7 @@ social_settings:
   etsy_url: ''
   kickstarter_url: ''
   soundcloud_url: ''
-  spotify_url: ''
+  spotify_url: 'https://open.spotify.com/user/df5gqbp2om53q7jhc9w8gb9ub?si=4d705fe7517c4d01'
   bandcamp_url: ''
   linkedin_url: 'https://www.linkedin.com/in/sam-narkawicz/'
 
