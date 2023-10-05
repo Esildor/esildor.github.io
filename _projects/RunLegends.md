@@ -51,4 +51,5 @@ Check out some images of the game!
 
 Try it on your mobile device!
 
-<a href="[https://www.talofagames.com/](https://www.talofagames.com/)" class="button button--large">(Coming Soon! Check out the Splash Page!)</a>
+<a href="https://apps.apple.com/us/app/run-legends-co-op-fitness-rpg/id1585730648" class="button button--large">iOS</a>
+<a href="https://play.google.com/store/apps/details?id=com.talofagames.abra" class="button button--large">Android</a>
