@@ -4,7 +4,7 @@ subtitle: 'Turn walking and running into a cooperative multiplayer battle game!'
 date: 2023-02-02 00:00:00
 featured_image: '/images/projects/runlegends/banner.png'
 ---
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/l4nCOLSBu84" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/vQQtFe0vNfA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope" allowfullscreen></iframe>
 
 ## Learnings
 
