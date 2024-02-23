@@ -7,7 +7,7 @@ excerpt: A quick rambling on the hard parts of building a common mobile game sys
 **tl;dr**
 This tutorial will show you how to create the basic UI for a mobile tutorial system within Unity3D. Mainly it explains how to do some of the painful UI setup and the calculations. In Unity, everyone's UI is different, so this should be broadly applicable. As long as you have some sort of "Panel System" in your UI, where a single prefab represents a panel. It should be able to be adapted to whatever you might have.
 
-Ever encounter one of the problems during your software engineering travels where its seems like you're **the only one** looking for discussion on the topic? I was recently asked to implement and tutorial system within a project. And it seemed like no one online was trying to solve the same thing. Well I had some hiccups and since I couldn't find any documentation on it. So I decided to write this up and give back to the community. 💖
+Ever encounter one of the problems during your software engineering travels where its seems like you're **the only one** looking for discussion on the topic? I was recently asked to implement a tutorial system within a project. And it seemed like no one online was trying to solve the same thing. Well I had some hiccups and since I couldn't find any documentation on it.... I decided to write this up and give back to the community. 💖
 
 For the uninitiated, tutorial systems within mobile games follow a common trope. Its a bit hard to explain, so heres some examples:
 
@@ -21,6 +21,7 @@ Shown above, it follows these core concepts:
 * Overlay UI on top of the current panel to simulate the below panel being _"grayed out"_.
 * Provide some sort of _see through_ area. Notably, this means the player can click through to some button or area.
 * (Optionally) Display some other UI elements over this grayed area
+
 To my knowledge, in the UI world, this is called a **scrim**. If its not, [feel free to let me know](mailto:narkawiczsamuel@gmail.com).
 
 ---
@@ -52,7 +53,7 @@ Next note the hierarchy, and the boxes positions. Each point is anchored towards
 	<img src="/images/blog/MobileTutorial/box8.png">
 </div>
 
-Next up, create your script that'll manage this panel, I suggest placing it on the panel root, but since everything is referenced directly, I don't think it matters.
+Next up, create your script that'll manage this panel, I suggest placing it on the panel root, but since everything is referenced directly, but it shouldn't matter.
 ```csharp
 public class TutorialPanel : MonoBehaviour
 {
@@ -115,7 +116,7 @@ public void FocusOnTarget(Canvas canvas, float padding, RectTransform focusTarge
 Trying to keep things logical, going to walk through some bits of it, top to bottom:
 #### Three parameters:
 - `Canvas canvas` is the just to handle scaling. If you're drawing the tutorial panel and object you're focusing on are using two different panels, well idk, good luck. If the scales are the same, it should be fine
-- `float padding` is pretty straight foreword. As stated in the **goal**, we don't want to have to modify the game panel or the object we are focusing on, but we also don't want to highlight the buttons and none of the surrounding area. So this is just mainly for ease of use.
+- `float padding` is pretty straight foreword. As stated in the **goal**, we don't want to have to modify the game panel or the object we are focusing on, but we also don't want to highlight just the edges of the button.
 - `RectTransform focusTarget` is the object you want to highlight.
 
 #### That Unity sauce
@@ -133,4 +134,4 @@ I used a bit of Odin Inspector goodness to make this button to test it at editor
 </div>
 
 ---
-This is my first time ever doing something like this, so if you found this help, let me know I'm not insane by giving me a _thanks_ email. Also if you have any questions on the matter, feel free to [shoot me an email for that too](mailto:narkawiczsamuel@gmail.com)!
+This is my first time ever doing something like this, so if you found this helpful, let me know I'm not insane by giving me a _thanks_ email. Also if you have any questions on the matter, feel free to [shoot me an email for that too](mailto:narkawiczsamuel@gmail.com)!

@@ -10,7 +10,7 @@ featured_image: '/images/projects/runlegends/banner.png'
 
 Working at Talofa Games has taught me so much more about the game development process than I ever thought I could learn. It continues to play a pivotal role in how I grow as a developer and leader.
 
-At other companies, my engineering skills improved and changed as I became a stronger and more confident contributor. This growth mainly came from writing gameplay systems from design specs. However, at Talofa, being the **Lead Client Engineer**, not only do my engineering skills continue to grow but so do my project management and leadership skills. Managing two other engineers and balancing their workload has proven to be a challenging, yet rewarding experience. I learned to love the humanity of it all. On a technical note, watching how other engineers use, modify, and extend my code is also one of the many valuable things.
+At other companies, my engineering skills improved and changed as I became a stronger and more confident contributor. This growth mainly came from writing gameplay systems from provided design specs. However, at Talofa, being the **Lead Client Engineer**, not only do my engineering skills continue to grow but so do my project management and leadership skills. Managing two other engineers and balancing their workload has proven to be a challenging, yet rewarding experience. I learned to love the humanity of it all. On a technical note, watching how other engineers use, modify, and extend my code is also one of the many rewarding steps in this process.
 
 ---
 
