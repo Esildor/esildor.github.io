@@ -16,7 +16,7 @@ menu_settings:
       url: '/projects/'
     - title: 'About'
       url: '/about'
-    - title: 'Portfolio'
+    - title: 'Resume'
       url: 'https://github.com/Esildor/esildor.github.io/blob/master/files/Samuel-Narkawicz-Resume.pdf'
     - title: 'Contact'
       url: '/contact'
