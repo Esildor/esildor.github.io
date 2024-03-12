@@ -68,9 +68,11 @@ Additionally, note that each rect has its width set to 1000. This is to ensure t
 	<img src="/images/blog/MobileTutorial/boxRect.png" width="200">
 </div>
 
-Now, the moment you've been waiting for! You don't have to set any of this up! Took me a good hour to figure out and set this all up, so here's a unity package with a prefab ready to go! _(No script though)_. As long as there's no major overhauls to the Unity UI system since the time of writing this, this should import fine with **any** version of Unity.
+Now, the moment you've been waiting for! You don't have to set any of this up! Took me a good hour to figure out and set this all up, so here's a unity package with a prefab ready to go! _(No script though, you'll find that below)_. This _should_ import fine with **any** version of Unity.
 
-<a href="https://www.samnarkawicz.com/files/tutorialPanel.unitypackage" class="button button--large">Download Unity Package</a>
+<div align="center">
+<a href="https://www.samnarkawicz.com/files/tutorialPanel.unitypackage" class="button button--large" download>Download Unity Package</a>
+</div>
 
 ## The Focus Function
 Finally, we'll add some more logic to the `TutorialPanel` script the we'll actually call when we want to focus on some object. This function is basically my whole reason for making this post. Since I'm a bit dumb, and mostly guessed and checked my way here. I figured I should do anything I can to save someone else the time. So here ya go.
