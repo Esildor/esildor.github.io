@@ -17,7 +17,7 @@ menu_settings:
     - title: 'About'
       url: '/about'
     - title: 'Resume'
-      url: '/files/Samuel-Narkawicz-Resume.pdf'
+      url: 'https://www.samnarkawicz.com/files/Samuel-Narkawicz-Resume.pdf'
     - title: 'Contact'
       url: '/contact'
 
