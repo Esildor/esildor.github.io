@@ -2,7 +2,7 @@
 title: 'Understanding Unity Asset Serialization Behavior: Why the hell are all these files here?'
 date: 2024-04-08 00:00:00
 featured_image: /images/blog/UnityAssetSerializationBehavior/splash.png
-excerpt: "*Stares at Unity and all the changed assets in git* "Why the hell did all these asset change?" "Why do my assets change like they've got a mind of their own?""
+excerpt: Why do my assets change like they've got a mind of their own?
 ---
 If you've been working with Unity for some time, you might have noticed assets changing seemingly at random. I've had many co-workers over the years ask:
 > Hey, how come when I change this _(insert asset, prefab, scene, etc)_ all these changes and new values appear in my source control diff?
