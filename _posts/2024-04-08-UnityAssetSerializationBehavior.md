@@ -38,15 +38,6 @@ Now, to minimize this and keep a clean project
 AssetDatabase.ForceReserializeAssets();
 AssetDatabase.SaveAssets();
 ```
-This code forces Unity to reserialize assets, ensuring that all changes are applied correctly.
-
-## Best Practices
-
-After each engine upgrade, or even on scheduled basis, consider calling this editor code:
-```csharp
-AssetDatabase.ForceReserializeAssets();
-AssetDatabase.SaveAssets();
-```
 Warning: This operation can be time-consuming, sometimes taking an hour or more, depending on the size of your project. This is because it forces **everything** to be re-serialized. However, doing it during engine upgrades, ensures that all changes are captured, including those in materials, meta files, and assets.
 
 In conclusion, Unity's asset serialization behavior may seem random at first, but it's a deliberate process designed to ensure that your projects remain compatible and consistent across upgrades. By understanding this behavior and following best practices, you can manage asset changes effectively and avoid unexpected issues in your Unity projects.
