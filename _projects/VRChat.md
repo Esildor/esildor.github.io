@@ -37,5 +37,5 @@ Try it on your favorite platform!
 
 <a href="https://store.steampowered.com/app/438100/VRChat/" class="button button--large">Steam</a>
 <a href="https://www.meta.com/experiences/1856672347794301/" class="button button--large">Meta Quest/Oculus</a>
-<a href="https://www.samnarkawicz.com/project/vrchat">iOS (coming soon!)</a>
+<a href="https://www.samnarkawicz.com/project/vrchat"class="button button--large">iOS (coming soon!)</a>
 <a href="https://play.google.com/store/apps/details?id=com.talofagames.abra" class="button button--large">Android</a>
